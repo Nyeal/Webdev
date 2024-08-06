@@ -11,7 +11,7 @@ h1 {
 
 .flex-conainer > div{
     background-color: red;
-    size:100px;
-    min-width: 100px;
+    height: 40vh;
+    flex-grow: 1;
 }
 
